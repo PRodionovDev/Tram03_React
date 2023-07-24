@@ -1,0 +1,7 @@
+.schemeImg {
+    height: 900px;
+    width: 60%;
+    background: url(../img/scheme.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}

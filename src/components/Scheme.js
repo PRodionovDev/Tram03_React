@@ -1,9 +1,10 @@
 import React from "react"
+import scheme from "../img/scheme.png"
 
 class Scheme extends React.Component {
     render() {
         return (
-            <header>{this.props.title}</header>
+            <div className="schemeImg container"></div>
         )
     }
 }
