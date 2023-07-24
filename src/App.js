@@ -1,5 +1,3 @@
-import logo from './logo.svg'
-import './App.css'
 import React from 'react'
 import Header from './components/Header'
 import Background from './components/Background'
@@ -13,7 +11,7 @@ import Footer from './components/Footer'
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Header/>
       <Background/>
       <News/>
