@@ -1,0 +1,23 @@
+.infoBlock {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 15%;
+    padding-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.tram_number {
+    padding-top: 5%;
+}
+
+.tram_number h3 {
+    float: left;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+
+.tram_number p {
+    float: left;
+    padding-left: 20px;
+}
