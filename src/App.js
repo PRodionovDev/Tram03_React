@@ -1,7 +1,6 @@
 import React from 'react'
 import Header from './components/Header'
 import Background from './components/Background'
-import News from './components/News'
 import Info from './components/Info'
 import Scheme from './components/Scheme'
 import MobileApp from './components/MobileApp'
@@ -14,7 +13,6 @@ function App() {
     <div className="app">
       <Header/>
       <Background/>
-      <News/>
       <Info/>
       <Scheme/>
       <MobileApp/>
