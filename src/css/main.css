@@ -15,6 +15,11 @@ html, body, .app {
     color: #fff;
 }
 
+.baseColorGreen {
+    background-color: #0a5a3c;
+    color: #fff;
+}
+
 .btn {
     border: 1px solid transparent;
     border-top-color: transparent;
@@ -35,9 +40,26 @@ html, body, .app {
     text-decoration: none;
 }
 
+.btn-default {
+    background-color: transparent;
+    color: #fff;
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
 .container {
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
 }
+
+.block {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 15%;
+    padding-left: 15%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
