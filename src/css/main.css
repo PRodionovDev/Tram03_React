@@ -4,10 +4,17 @@
     text-align: center;
     font-family: 'Roboto', sans-serif;
     line-height: 1.42857143;
+    font-size: 21px;
+    font-weight: 200;
 }
 
 html, body, .app {
     height: 100%;
+}
+
+li {
+    list-style-type: none;
+    text-align: justify;
 }
 
 .baseColor {
@@ -63,3 +70,12 @@ html, body, .app {
     margin-left: auto;
 }
 
+.text-style-left {
+    color: #008dd2 !important;
+    font-weight: bold;
+}
+
+.text-style-right {
+    color: #035191 !important;
+    font-weight: bold;
+}
