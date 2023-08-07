@@ -1,0 +1,43 @@
+nav {
+    min-height: 70px;
+    background: linear-gradient(to bottom, #333 0%, transparent 100%);
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+nav div {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+nav ul {
+    text-align: right;
+    color: #fff;
+}
+
+nav li {
+    display: inline;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+nav li a {
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.logo {
+    background: url(../img/logo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+    margin: 10px;
+    float: left;
+    height: 10px;
+    width: 100px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
