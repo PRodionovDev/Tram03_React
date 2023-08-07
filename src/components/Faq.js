@@ -3,7 +3,7 @@ import React from "react"
 class Faq extends React.Component {
     render() {
         return (
-            <div>
+            <div id="anchor-faq">
                 <div className="block">
                     <h2 className="text-style-right"><b className="text-style-left">Информация </b>о проезде</h2>
                     <br />

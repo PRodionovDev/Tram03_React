@@ -3,7 +3,7 @@ import React from "react"
 class Background extends React.Component {
     render() {
         return (
-            <div id="index" className="banner"></div>
+            <div id="anchor-index" className="banner"></div>
         )
     }
 }

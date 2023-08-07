@@ -3,7 +3,7 @@ import React from "react"
 class Info extends React.Component {
     render() {
         return (
-            <div className="baseColor block">
+            <div id="anchor-info" className="baseColor block">
                 <h2>Информация о маршрутах</h2>
                 <br/>
                 <p>Направления движения трамваев нашего города вы можете узнать на интерактивной карте 2ГИС</p>
